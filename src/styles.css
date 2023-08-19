@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(59, 148, 201);
+  color: whitesmoke;
+}
+h1 {
+  font-size: 35px;
+}
+em {
+  font-size: 16px;
+}
+small {
+  font-size: 25px;
+  font-style: italic;
+  font-family: "Hubballi", cursive;
+}
+.temp {
+  color: beige;
+}
+form {
+  position: fixed;
+  top: 10px;
+  left: 1000px;
+}
+h4 {
+  background: grey;
+}
+button {
+  position: fixed;
+  top: 50px;
+  left: 1000px;
+  background: red;
+  color: seashell;
+}
